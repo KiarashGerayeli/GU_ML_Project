@@ -2,7 +2,7 @@
 
 ## Developers
 
--   Kiarash Grayeli
+-   Kiarash Gerayeli
 -   Parham Baradaran Noveiry
 -   Paria Salsablily
 
